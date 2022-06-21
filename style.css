@@ -1,0 +1,170 @@
+.header{
+    position: absolute;
+    left: 0%;
+    right: 0.14%;
+    top: 0%;
+    bottom: 89.49%;
+
+    background: #131313;
+
+}
+.div-header{
+    position: absolute;
+    left: 6.39%;
+    right: 6.39%;
+    top: 3.04%;
+    bottom: 92.28%;
+
+    margin-top: 36px;
+}
+.RDP{
+    position: absolute;
+    left: 6.39%;
+    right: 81.13%;
+    top: 4.68%;
+    bottom: 94.05%;
+
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 15px;
+    text-transform: uppercase;
+
+    color: #E3B873;
+}
+.home{
+    position: absolute;
+    left: 25.5%;
+    right: 71.72%;
+    top: 4.68%;
+    bottom: 94.05%;
+
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 15px;
+
+    color: #E3B873;
+}
+.projects{
+    position: absolute;
+    left: 31.55%;
+    right: 64.42%;
+    top: 4.68%;
+    bottom: 94.05%;
+
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 15px;
+
+    color: #FFFFFF;
+}
+.measurement{
+    position: absolute;
+    left: 38.85%;
+    right: 54.63%;
+    top: 4.68%;
+    bottom: 94.05%;
+
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 15px;
+
+    color: #FFFFFF;
+}
+.team{
+    position: absolute;
+    left: 48.64%;
+    right: 49%;
+    top: 4.68%;
+    bottom: 94.05%;
+
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 15px;
+
+    color: #FFFFFF;
+}
+.reviews{
+    position: absolute;
+    left: 54.27%;
+    right: 42.04%;
+    top: 4.68%;
+    bottom: 94.05%;
+
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 15px;
+
+    color: #FFFFFF;
+}
+.contacts{
+    position: absolute;
+    left: 61.23%;
+    right: 34.12%;
+    top: 4.68%;
+    bottom: 94.05%;
+
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 15px;
+
+    color: #FFFFFF;
+}
+.number{
+    position: absolute;
+    left: 70.56%;
+    right: 20.69%;
+    top: 4.68%;
+    bottom: 93.29%;
+
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 15px;
+    text-align: right;
+    text-decoration-line: underline;
+
+    color: #E3B873;
+}
+.RC{
+    position: absolute;
+    left: 84.72%;
+    right: 8.68%;
+    top: 4.68%;
+    bottom: 93.92%;
+
+    font-family: 'Nunito Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 15px;
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FFFFFF;   
+}
+.none{
+    position: absolute;
+    left: 82.43%;
+    right: 6.39%;
+    top: 3.04%;
+    bottom: 92.28%;
+
+    background: #E3B873;
+    box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.2);
+    border-radius: 2px;
+}
